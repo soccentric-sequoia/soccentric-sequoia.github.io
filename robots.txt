@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://soccentric-sequoia.github.io/sitemap.xml
